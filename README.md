@@ -33,7 +33,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> based in Chicago, Illinois.
   
-  - :rocket: I’m a former Architectural Engineer and current Software Engineer, contributing to frontend and backend for building web applications.
+  - :rocket: I am an Architectural Engineer by trade and current Software Engineer, contributing to frontend and backend for building web applications.
 
 - :evergreen_tree: Exploring Javascript, C#, and Python.
 
