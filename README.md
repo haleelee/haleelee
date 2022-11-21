@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOh
 
 - :evergreen_tree: Exploring Javascript, C#, and Python.
 
-- :joystick: In my free time, I solve coding challenges on CodeWars, read tech articles, and build websites and Revit add-ins for people.
+- :joystick: In my free time, I solve coding challenges on CodeWars, read tech articles, and build websites and Revit add-ins to help users become more efficient.
 
 - :e-mail:How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-michaelhalili-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelhalili/)
 
